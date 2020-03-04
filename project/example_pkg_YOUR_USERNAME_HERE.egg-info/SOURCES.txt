@@ -1,0 +1,12 @@
+README.md
+setup.py
+example_pkg_YOUR_USERNAME_HERE.egg-info/PKG-INFO
+example_pkg_YOUR_USERNAME_HERE.egg-info/SOURCES.txt
+example_pkg_YOUR_USERNAME_HERE.egg-info/dependency_links.txt
+example_pkg_YOUR_USERNAME_HERE.egg-info/top_level.txt
+my_sum/__init__.py
+tests/__init__.py
+tests/src/__init__.py
+tests/src/test_my_sum.py
+tests/src/test_web.py
+web/__init__.py
